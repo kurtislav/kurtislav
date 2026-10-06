@@ -86,7 +86,7 @@ Building candidate fraud and deepfake detection for hiring teams. The products I
 
 ## GitHub stats
 
-![kurtjallo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurtjallo&theme=vision-friendly-dark&hide_border=true)
+![kurtjallo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurtislav&theme=vision-friendly-dark&hide_border=true)
 
 ---
 
